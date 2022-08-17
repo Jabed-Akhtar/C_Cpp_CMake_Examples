@@ -1,0 +1,10 @@
+## cmake ..
+## cmake --build .
+## to run executable: $ ./cmake_main
+## $ make -> also runs cmake for us
+
+# Some helping commands
+>> ldd <project name>    -> example $ ldd cmake_main
+
+# 'cmake ..' not working -> '-- Check for working C compiler: /usr/bin/cc - broken'
+    -> sudo apt-get install build-essential
