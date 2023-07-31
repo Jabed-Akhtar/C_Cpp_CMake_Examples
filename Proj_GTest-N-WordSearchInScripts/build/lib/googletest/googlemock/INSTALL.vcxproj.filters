@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\build\CMakeFiles\ccde863e8a0934255543c125359303a2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4A36A17D-9C19-380E-A106-F50FBE504346}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

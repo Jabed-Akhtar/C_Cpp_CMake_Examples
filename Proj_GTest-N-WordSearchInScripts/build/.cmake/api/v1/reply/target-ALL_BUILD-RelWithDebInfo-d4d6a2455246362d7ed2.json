@@ -1,0 +1,54 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ProjGTstNWorSear_run::@145eef247bfb46b6828c"
+		},
+		{
+			"id" : "ProjGTstNWorSear_lib::@145eef247bfb46b6828c"
+		},
+		{
+			"id" : "ProjGTstNWorSear_tst::@bc08d5df49ffa9ee5cce"
+		},
+		{
+			"id" : "gmock::@7712283c01f504ef6d93"
+		},
+		{
+			"id" : "gmock_main::@7712283c01f504ef6d93"
+		},
+		{
+			"id" : "gtest::@7e3677ed2a4dc8c8eb88"
+		},
+		{
+			"id" : "gtest_main::@7e3677ed2a4dc8c8eb88"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
