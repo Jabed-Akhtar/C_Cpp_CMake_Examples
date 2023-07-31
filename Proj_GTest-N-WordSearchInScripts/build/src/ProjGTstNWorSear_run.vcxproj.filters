@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\Formula.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\Formula.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\GTest_Samples_Cpp\prime_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\GTest_Samples_Cpp\sample1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\GTest_Samples_Cpp\sample2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\GTest_Samples_Cpp\sample3-inl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\GTest_Samples_Cpp\sample4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GitHubDIR\CMake_Project_ws\Proj_GTest-N-WordSearchInScripts\src\GTest_Samples_Cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8F621304-98BA-3F39-9BAA-023C7841C394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DA237715-20ED-3ADA-970E-BCCD147E0A66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

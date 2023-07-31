@@ -1,0 +1,10 @@
+^D:\GITHUBDIR\CMAKE_PROJECT_WS\PROJ_GTEST-N-WORDSEARCHINSCRIPTS\BUILD\CMAKEFILES\43D8D1BAA2E7C3E007C666B8143C915F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GitHubDIR/CMake_Project_ws/Proj_GTest-N-WordSearchInScripts -BD:/GitHubDIR/CMake_Project_ws/Proj_GTest-N-WordSearchInScripts/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GitHubDIR/CMake_Project_ws/Proj_GTest-N-WordSearchInScripts/build/ProjGTstNWorSear.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
