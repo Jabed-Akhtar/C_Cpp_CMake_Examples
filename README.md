@@ -3,8 +3,18 @@
 >> This repo contains an example project of CMake.
 
 ## CMake commands
+### Window
 - Generate Visual Studio project files: cmake -G "Visual Studio 17 2022" .  //  cmake -S . -B build/
 - Build the project: cmake --build .
+
+### Linux
+> make version: GNU Make 4.3
+> cmake version: 3.22.1
+> cmake generator: Unix Makefiles
+> C compiler: GNU 11.4.0
+- Generate build files: § cmake -S . -B build/
+- Go to build/ and: § make
+- Run executable: § ./HelloWorld
 
 Unsorted commands:
 ## cmake ..
