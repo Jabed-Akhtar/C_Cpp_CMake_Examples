@@ -2,9 +2,10 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Project name
-project (HelloWorld)
+project (HelloHeader)
 
 # Set source variable linking all source files to compile
+# Alternative method: file(GLOB SOURCES "src/*.cpp)
 set(SOURCES
     src/HelloWorld.cpp
     src/main.cpp
